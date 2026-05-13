@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>To-Do List</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="todo-app">
+    <h1>To-Do List</h1>
+
+    <section class="todo-input">
+        <input id="taskInput" type="text" placeholder="Type a task..." autocomplete="off"/>
+        <button id="addTaskBtn" type="button">Add</button>
+    </section>
+
+    <section class="todo-filters">
+        <button class="filter-btn active" id="filterAll">All</button>
+        <button class="filter-btn" id="filterActive">Active</button>
+        <button class="filter-btn" id="filterDone">Done</button>
+    </section>
+
+    <section class="todo-list" aria-label="Task list">
+        <div id="tasksContainer"></div>
+    </section>
+  </main>
+
+  <script src="./script.js"></script>
+</body>
+</html>
+
