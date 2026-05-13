@@ -13,7 +13,7 @@
  <img width="901" height="347" alt="image" src="https://github.com/user-attachments/assets/89bfe53b-ce95-4fbb-b37d-cb27771267d8" />
 
 4. active task
-   <img width="897" height="327" alt="image" src="https://github.com/user-attachments/assets/ec56cce3-7982-4705-939c-e758d82d201a" />
+<img width="897" height="327" alt="image" src="https://github.com/user-attachments/assets/ec56cce3-7982-4705-939c-e758d82d201a" />
 
 5. task finished
    <img width="905" height="372" alt="image" src="https://github.com/user-attachments/assets/068c02d3-ee82-4ff3-8b67-a577080078e7" />
